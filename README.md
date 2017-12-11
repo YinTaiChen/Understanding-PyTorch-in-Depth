@@ -1,5 +1,3 @@
-# Pytorch-Tutorials-translated-to-Chinese
+# Understanding-PyTorch-in-Depth
 
-繁體中文化的 Pytorch Tutorials
-
-All rights reserved to © Copyright 2017, PyTorch.
+深入了解 PyTorch
