@@ -31,3 +31,5 @@
 
 ## Paper Implementation
 [Visualizing the hidden activities of CNN](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Visualizing%20the%20Hidden%20Activity%20of%20a%20CNN.ipynb)
+
+[Capsules Network](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Implementing%20Capsules%20Network.ipynb)
