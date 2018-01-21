@@ -24,6 +24,8 @@
 
 [Train a CNN layer by layer](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Train%20a%20CNN%20layer%20by%20layer.ipynb)
 
+[CNN decoder](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/CNN%20decoder.ipynb)
+
 ## Transfer Learning
 [Understanding transfer learning 1](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Understanding%20Transfer%20Learning%201.ipynb)
 
