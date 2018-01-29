@@ -7,6 +7,8 @@
 
 [Understanding Tensor Methods](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Tensor%20Methods.ipynb)
 
+[Activation Function](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Activation%20function.ipynb)
+
 ## Dataset
 [Dataset Loading](https://github.com/YinTaiChen/Understanding-PyTorch-in-Depth/blob/master/Dataset%20Loading.ipynb)
 
